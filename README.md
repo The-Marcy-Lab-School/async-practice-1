@@ -1,5 +1,4 @@
-# Lesson 6.0 Practice
-## Asynchronous Programming w/ Callback Functions
+# Practice: Asynchronous Programming w/ Callback Functions
 
 ### Directions
 #### Abstracting Over `XMLHttpRequest`
